@@ -1,0 +1,6 @@
+{
+  "name": "HRM Boshqaruv",
+  "description": "HR boshqaruv tizimi (HRM) prototipi - xodimlar, davomat, arizalar, ish haqi va tashkiliy tuzilma boshqaruvi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
